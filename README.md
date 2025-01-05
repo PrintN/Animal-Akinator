@@ -1,4 +1,8 @@
 ![Animal Akinator Banner](banner.png)
+## Animal Akinator
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
+
 Animal Akinator is an interactive guessing game that challenges players to think of an animal while the program attempts to identify it through a series of yes-or-no questions. Inspired by the original [Akinator website](https://en.akinator.com/).
 
 ## Setup
