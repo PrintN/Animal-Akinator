@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Does it have scales?",
+        "attribute": "has_scales",
+        "yes_value": true
+    },
+    {
+        "question": "Is it endangered?",
+        "attribute": "is_endangered",
+        "yes_value": true
+    },
+    {
+        "question": "Can it swim?",
+        "attribute": "is_aquatic",
+        "yes_value": true
+    },
+    {
+        "question": "Is it a mammal?",
+        "attribute": "is_mammal",
+        "yes_value": true
+    },
+    {
+        "question": "Is it carnivore?",
+        "attribute": "diet",
+        "yes_value": "Carnivore"
+    },
+    {
+        "question": "Is it larger than a human?",
+        "attribute": "is_larger_than_human",
+        "yes_value": true
+    },
+    {
+        "question": "Does it have fur?",
+        "attribute": "has_fur",
+        "yes_value": true
+    },
+    {
+        "question": "Is it known for living in groups?",
+        "attribute": "social_structure",
+        "yes_value": true
+    },
+    {
+        "question": "Is it primarily active during the day?",
+        "attribute": "activity_pattern",
+        "yes_value": true
+    },
+    {
+        "question": "Does it have a long lifespan?",
+        "attribute": "average_lifespan",
+        "yes_value": "Long"
+    },
+    {
+        "question": "Is it domesticated?",
+        "attribute": "domesticated",
+        "yes_value": true
+    },
+    {
+        "question": "Is it a bird?",
+        "attribute": "is_mammal",
+        "yes_value": false
+    },
+    {
+        "question": "Is it brown?",
+        "attribute": "color",
+        "yes_value": "brown"
+    },
+    {
+        "question": "Is it gray?",
+        "attribute": "color",
+        "yes_value": "gray"
+    },
+    {
+        "question": "Is it black?",
+        "attribute": "color",
+        "yes_value": "black"
+    },
+    {
+        "question": "Is it white?",
+        "attribute": "color",
+        "yes_value": "white"
+    },
+    {
+        "question": "Is it green?",
+        "attribute": "color",
+        "yes_value": "green"
+    },
+    {
+        "question": "Does it live in the Savanna?",
+        "attribute": "habitat",
+        "yes_value": "Savanna"
+    },
+    {
+        "question": "Does it live in the Ocean?",
+        "attribute": "habitat",
+        "yes_value": "Ocean"
+    },
+    {
+        "question": "Does it live in the Forests?",
+        "attribute": "habitat",
+        "yes_value": "Forests"
+    }
+]
